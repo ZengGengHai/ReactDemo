@@ -2,7 +2,7 @@
 
 ### 安装依赖
 
-npm init  &&  yarn init
+npm i  &&  yarn i
 
 
 
